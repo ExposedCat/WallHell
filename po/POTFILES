@@ -1,0 +1,7 @@
+data/com.github.ExposedCat.WallHell.desktop.in
+data/com.github.ExposedCat.WallHell.appdata.xml.in
+data/com.github.ExposedCat.WallHell.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
